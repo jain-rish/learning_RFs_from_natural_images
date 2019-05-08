@@ -1,3 +1,7 @@
+This repo includes code for learning features from natural images
+
+
+
 The mechanisms underlying the development of area V1 have been extensively studied. V1 is unusual among visual cortical areas, however, in that
 the majority of V1 cells respond well to the same basic shape – an elongated edge or grating-like feature with varying preferences for orientation,
 spatial frequency, and other parameters. Following from this, the core of most V1 models consists of a set of Gabor filters with varying orientation
