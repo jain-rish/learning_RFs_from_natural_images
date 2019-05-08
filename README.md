@@ -2,6 +2,7 @@
 This repo includes code for learning features from natural images
 
 
+## Abstract
 
 The mechanisms underlying the development of area V1 have been extensively studied. V1 is unusual among visual cortical areas, however, in that
 the majority of V1 cells respond well to the same basic shape – an elongated edge or grating-like feature with varying preferences for orientation,
